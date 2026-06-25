@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const selectedPreset = getCookie("tabCloakPreset");
 
     const presets = {
-        google: {
+        qubena: {
             favicon: "https://shizuoka.qubena.app/favicon.ico",
             title: "Qubena(キュビナ)"
         },
