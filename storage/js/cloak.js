@@ -40,8 +40,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
     const presets = {
         google: {
-            favicon: "/images/icons/google.ico",
-            title: "Google"
+            favicon: "https://shizuoka.qubena.app/favicon.ico",
+            title: "Qubena(キュビナ)"
         },
         bing: {
             favicon: "/images/icons/bing.ico",
